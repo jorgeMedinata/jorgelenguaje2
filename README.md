@@ -1,2 +1,2 @@
-# Ejercicios_2_lenguaje
-Todos los ejercicios de la materia de lenguaje de programación || 
+# Ejercicio_3_lenguaje
+Actividad con bootstrap y css

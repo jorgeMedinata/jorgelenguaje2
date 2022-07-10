@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Lobster&display=swap');
+
+#app {
+  font-family: 'Comfortaa', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: black;
+}
+#nav {
+  padding: 20px;
+}
+#nav a {
+  font-family: 'Comfortaa', cursive;
+  color: violet;
+}
+
+.carousel-inner, .gg{
+  height: 30rem;
+}
+footer {
+  background-color: black;
+  min-height: 100px;
+}
+footer p {
+  color: white;
+  text-align: center;
+}
+#iconos i {
+  font-size: 26px;
+  padding: 0 8px;
+  color: black;
+}
+.logo{
+  width: 25%;
+}
+@media (max-width:768px) {
+  .carousel-inner, .gg{
+    height: 15rem;
+  }
+}
+@media (max-width: 576px) {
+  .carousel-inner, .gg{
+    height: 13rem;
+  }
+}
+
+.row{
+  margin: 15px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+}
